@@ -1,0 +1,4 @@
+def num(a):
+    return 8
+
+print("Hola")
