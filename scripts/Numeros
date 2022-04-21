@@ -1,0 +1,4 @@
+def num():
+    return 7
+
+print (num())
